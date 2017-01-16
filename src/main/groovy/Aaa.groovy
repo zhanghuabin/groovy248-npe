@@ -1,0 +1,6 @@
+trait Aaa {
+
+    protected env
+
+
+}
